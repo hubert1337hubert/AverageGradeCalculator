@@ -1,2 +1,3 @@
 # AverageGradeCalculator
-moj cel to zdanie klasy :)
+Stworzenie testów jednostkowych
+sprawdzających poprawność funkcji obliczania średniej.
